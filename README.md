@@ -1,4 +1,4 @@
 # pub
 Public notes
 
-See http://pub.jmnorlund.net/daily-notes
+See https://pub.jmnorlund.net/daily-notes
