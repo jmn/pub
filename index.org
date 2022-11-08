@@ -1,0 +1,4 @@
+#+TITLE: Pub index
+
+[[/daily-notes]]
+[[/meta]]
