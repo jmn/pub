@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Install Emacs
-        run: sudo apt install emacs-nox --yes
-
+        run: sudo snap install emacs --channel=edge --classic
+      
       - name: Build the site
         run: chmod +x build.sh && ./build.sh
 
