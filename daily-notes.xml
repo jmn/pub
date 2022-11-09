@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>jmn daily notes</title>
+  <atom:link href="https://pub.jmnorlund.net/daily-notes.xml" rel="self" type="application/rss+xml" />
+  <link>https://pub.jmnorlund.net</link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Wed, 09 Nov 2022 16:04:47 +0000</pubDate>
+  <lastBuildDate>Wed, 09 Nov 2022 16:04:47 +0000</lastBuildDate>
+  <generator>Emacs 29.0 Org-mode 9.5.5</generator>
+  <webMaster>runner@fv-az213-184 (nil)</webMaster>
+  <image>
+    <url>http://lumiere.ens.fr/~guerry/images/faces/15.png</url>
+    <title>jmn daily notes</title>
+    <link>https://pub.jmnorlund.net</link>
+  </image>
+
+
+  <item>
+    <title>2022-11-09 Wednesday</title>
+    <link>https://pub.jmnorlund.net/daily-notes.html#org15fa08a</link>
+    <author>runner@fv-az213-184 (nil)</author>
+    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#org15fa08a</guid>
+    <pubDate>Wed, 09 Nov 2022 17:01:00 +0000</pubDate>
+
+    <description><![CDATA[<div id="outline-container-org24e0dbf" class="outline-3">
+    <h3 id="org24e0dbf">Meta fires 11 000 people</h3>
+    <div class="outline-text-3" id="text-org24e0dbf">
+    <ul class="org-ul">
+    <li><a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/">https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/</a></li>
+    </ul>
+    </div>
+    </div>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>2022-11-08 Tuesday</title>
+    <link>https://pub.jmnorlund.net/daily-notes.html#org31e765e</link>
+    <author>runner@fv-az213-184 (nil)</author>
+    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#org31e765e</guid>
+    <pubDate>Wed, 09 Nov 2022 17:01:00 +0000</pubDate>
+
+    <description><![CDATA[<div id="outline-container-orgd1fa444" class="outline-3">
+    <h3 id="orgd1fa444">Molly White talk</h3>
+    <div class="outline-text-3" id="text-orgd1fa444">
+    <p>
+    Is Web3 bullshit?
+    </p>
+    <ul class="org-ul">
+    <li><a href="https://www.youtube.com/watch?v=AGsllEF7w_g">https://www.youtube.com/watch?v=AGsllEF7w_g</a></li>
+    </ul>
+    </div>
+    </div>
+
+    <div id="outline-container-org74f48fe" class="outline-3">
+    <h3 id="org74f48fe">CPUs: Speculative execution</h3>
+    <div class="outline-text-3" id="text-org74f48fe">
+    <p>
+    "Speculative execution is an optimization technique in which a processor (CPU)
+    performs a series of tasks before it is prompted to, in order to have the
+    information ready if it is required at any point."
+    </p>
+    <ul class="org-ul">
+    <li><a href="https://www.techtarget.com/whatis/definition/speculative-execution">https://www.techtarget.com/whatis/definition/speculative-execution</a></li>
+    </ul>
+    </div>
+    </div>
+
+    <div id="outline-container-org9b928c1" class="outline-3">
+    <h3 id="org9b928c1">HMR for Remix dev experience with Vite</h3>
+    <div class="outline-text-3" id="text-org9b928c1">
+    <ul class="org-ul">
+    <li><a href="https://github.com/sudomf/remix-vite">https://github.com/sudomf/remix-vite</a></li>
+    </ul>
+    </div>
+    </div>
+    ]]></description>
+  </item>
+</channel>
+</rss>

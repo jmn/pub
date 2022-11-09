@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org31dce69">Please help maintaining these add-ons</a></li>
+<li><a href="#orgc881082">License</a></li>
+<li><a href="#orgc3f69dc">Files to remove from the next release</a></li>
+<li><a href="#org0871a7e">Other files</a>
+<ul>
+<li><a href="#orgd1a8922">Org utils</a></li>
+<li><a href="#orgeb02b38">Org exporters</a></li>
+<li><a href="#orgacd09c3">Org link</a></li>
+<li><a href="#org6f32c92">Org Babel languages</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<p>
+This repository contains add-ons to Org.
+</p>
+
+<p>
+You can use them by installing the <code>org-contrib</code> NonGNU ELPA package
+from <a href="https://elpa.nongnu.org/nongnu/">https://elpa.nongnu.org/nongnu/</a>.
+</p>
+
+<div id="outline-container-org31dce69" class="outline-2">
+<h2 id="org31dce69">Please help maintaining these add-ons</h2>
+<div class="outline-text-2" id="text-org31dce69">
+<p>
+Files in this repository used to live in the Org repository but have
+been filtered out of the Org 9.5 release.  The <code>contrib/</code> directory used
+to contain a <code>scripts/</code> directory that now lives on <a href="https://code.orgmode.org/bzg/worg/src/master/code">the Worg repository</a>.
+</p>
+
+<p>
+<b>Files in this repository receive little if no maintainance and there
+is no guaranty that they are compatible with the Org stable version.</b>
+</p>
+
+<p>
+For files a <code>Maintainer</code> header and a <code>Homepage</code> pointing outside of this
+repository are in transition: they are maintained and will be removed
+from the next minor or major release of this repository.  As a user,
+please carefully track the new URL where the add-on is now maintained.
+</p>
+
+<p>
+If you want to maintain some of these add-ons, please send me an email
+at <code>bzg@gnu.org</code> once you set up a separate repository for them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc881082" class="outline-2">
+<h2 id="orgc881082">License</h2>
+<div class="outline-text-2" id="text-orgc881082">
+<p>
+All files in this repository are licensed under the GNU General Public
+License, either version 3 of the License, or (at your option) any
+later version.  See <a href="COPYING">COPYING</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3f69dc" class="outline-2">
+<h2 id="orgc3f69dc">Files to remove from the next release</h2>
+<div class="outline-text-2" id="text-orgc3f69dc">
+<p>
+If a file has a "Homepage:" keyword, it will be removed from the next
+minor or major release.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0871a7e" class="outline-2">
+<h2 id="org0871a7e">Other files</h2>
+<div class="outline-text-2" id="text-org0871a7e">
+</div>
+<div id="outline-container-orgd1a8922" class="outline-3">
+<h3 id="orgd1a8922">Org utils</h3>
+<div class="outline-text-3" id="text-orgd1a8922">
+<dl class="org-dl">
+<dt>org-annotate-file.el</dt><dd>Annotate a file with org syntax</dd>
+<dt>org-bibtex-extras.el</dt><dd>Extras for working with org-bibtex entries</dd>
+<dt>org-checklist.el</dt><dd>org functions for checklist handling</dd>
+<dt>org-choose.el</dt><dd>Use TODO keywords to mark decision states</dd>
+<dt>org-collector.el</dt><dd>Collect properties into tables</dd>
+<dt>org-contribdir.el</dt><dd>Dummy file to mark the org contrib Lisp directory</dd>
+<dt>org-depend.el</dt><dd>TODO dependencies for Org-mode</dd>
+<dt>org-effectiveness.el</dt><dd>Measuring your personal effectiveness</dd>
+<dt>org-eldoc.el</dt><dd>Eldoc documentation for SRC blocks</dd>
+<dt>org-eval.el</dt><dd>The &lt;lisp&gt; tag, adapted from Muse</dd>
+<dt>org-eval-light.el</dt><dd>Evaluate in-buffer code on demand</dd>
+<dt>org-expiry.el</dt><dd>Expiry mechanism for Org entries</dd>
+<dt>org-git-link.el</dt><dd>Provide org links to specific file version</dd>
+<dt>org-interactive-query.el</dt><dd>Interactive modification of tags query</dd>
+<dt>org-invoice.el</dt><dd>Help manage client invoices in OrgMode</dd>
+<dt>org-learn.el</dt><dd>SuperMemo's incremental learning algorithm</dd>
+<dt>org-license.el</dt><dd>Insert free licenses to your org documents</dd>
+<dt>org-mac-iCal.el</dt><dd>Imports events from iCal.app to the Emacs diary</dd>
+<dt>org-mairix.el</dt><dd>Hook mairix search into Org for different MUAs</dd>
+<dt>org-panel.el</dt><dd>Simple routines for us with bad memory</dd>
+<dt>org-registry.el</dt><dd>A registry for Org links</dd>
+<dt>org-screen.el</dt><dd>Visit screen sessions through Org-mode links</dd>
+<dt>org-screenshot.el</dt><dd>Take and manage screenshots in Org-mode files</dd>
+<dt>org-secretary.el</dt><dd>Team management with org-mode</dd>
+<dt>org-static-mathjax.el</dt><dd>Muse-like tags in Org-mode</dd>
+<dt>org-sudoku.el</dt><dd>Create and solve SUDOKU puzzles in Org tables</dd>
+<dt>org-toc.el</dt><dd>Table of contents for Org-mode buffer</dd>
+<dt>org-track.el</dt><dd>Keep up with Org development</dd>
+<dt>org-wikinodes.el</dt><dd>CamelCase wiki-like links for Org</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-orgeb02b38" class="outline-3">
+<h3 id="orgeb02b38">Org exporters</h3>
+<div class="outline-text-3" id="text-orgeb02b38">
+<dl class="org-dl">
+<dt>ox-bibtex.el</dt><dd>Export bibtex fragments</dd>
+<dt>ox-confluence.el</dt><dd>Confluence Wiki exporter</dd>
+<dt>ox-deck.el</dt><dd>deck.js presentations exporter</dd>
+<dt>ox-extra.el</dt><dd>Convenience functions for org export</dd>
+<dt>ox-freemind.el</dt><dd>Freemind exporter</dd>
+<dt>ox-groff.el</dt><dd>Groff exporter</dd>
+<dt>ox-s5.el</dt><dd>S5 presentations exporter</dd>
+<dt>ox-taskjuggler.el</dt><dd>TaskJuggler exporter</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-orgacd09c3" class="outline-3">
+<h3 id="orgacd09c3">Org link</h3>
+<div class="outline-text-3" id="text-orgacd09c3">
+<dl class="org-dl">
+<dt>ol-bookmark.el</dt><dd>Links to bookmarks</dd>
+<dt>ol-elisp-symbol.el</dt><dd>Links to Emacs-lisp symbols</dd>
+<dt>ol-git-link.el</dt><dd>Links to specific file version</dd>
+<dt>ol-mew.el</dt><dd>Links to Mew messages</dd>
+<dt>ol-vm.el</dt><dd>Support for links to VM messages</dd>
+<dt>ol-wl.el</dt><dd>Support for links to Wanderlust messages</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-org6f32c92" class="outline-3">
+<h3 id="org6f32c92">Org Babel languages</h3>
+<div class="outline-text-3" id="text-org6f32c92">
+<dl class="org-dl">
+<dt>ob-abc.el</dt><dd>Org-mode Babel Functions for ABC</dd>
+<dt>ob-asymptote.el</dt><dd>Org-mode Babel Functions for Asymptote</dd>
+<dt>ob-coq.el</dt><dd>Org-mode Babel Functions for Coq</dd>
+<dt>ob-csharp.el</dt><dd>Org-mode Babel Functions for csharp evaluation</dd>
+<dt>ob-ebnf.el</dt><dd>Org-mode Babel Functions for EBNF</dd>
+<dt>ob-eukleides.el</dt><dd>Org-mode Babel Functions for eukleides evaluation</dd>
+<dt>ob-fomus.el</dt><dd>Org-mode Babel Functions for fomus evaluation</dd>
+<dt>ob-hledger.el</dt><dd>Org-mode Babel Functions for hledger</dd>
+<dt>ob-io.el</dt><dd>Org-mode Babel Functions for Io</dd>
+<dt>ob-J.el</dt><dd>Org-mode Babel Functions for J</dd>
+<dt>ob-ledger.el</dt><dd>Org-mode Babel Functions for Ledger</dd>
+<dt>ob-mathomatic.el</dt><dd>Org-mode Babel Functions for mathomatic evaluation</dd>
+<dt>ob-mscgen.el</dt><dd>Org-mode Babel Functions for Mscgen</dd>
+<dt>ob-oz.el</dt><dd>Org-mode Babel Functions for Oz evaluation</dd>
+<dt>ob-picolisp.el</dt><dd>Org-mode Babel Functions for Picolisp</dd>
+<dt>ob-shen.el</dt><dd>Org-mode Babel Functions for Shen</dd>
+<dt>ob-stan.el</dt><dd>Babel Functions for Stan</dd>
+<dt>ob-stata.el</dt><dd>Org-mode Babel Functions for Stata evaluation</dd>
+<dt>ob-tcl.el</dt><dd>Org-mode Babel Functions for tcl evaluation</dd>
+<dt>ob-vala.el</dt><dd>Org-mode Babel Functions for Vala</dd>
+<dt>ob-vbnet.el</dt><dd>Org-mode Babel Functions for VB.Net evaluation</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 29.0.50 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
+</div>
+</body>
+</html>
