@@ -1,4 +1,4 @@
 #+TITLE: Pub index
 
-[[/daily-notes]]
-[[/meta]]
+[[./daily-notes.org]]
+[[./meta.org]]
