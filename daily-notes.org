@@ -1,19 +1,39 @@
 #+TITLE: jmn daily notes 
 
 * 2022-11-09 Wednesday
+:PROPERTIES:
+:ID:       88138eb3-c55e-4317-84a2-75c45fe22863
+:PUBDATE:  <2022-11-09 ons 17:01>
+:END:
 ** Meta fires 11 000 people
+:PROPERTIES:
+:ID:       bb57d5c2-d0eb-4c1c-b7e7-d9e68f0f7603
+:END:
 - https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/
 
 * 2022-11-08 Tuesday
+:PROPERTIES:
+:ID:       eb710e85-2219-41c4-af26-786142b7d7f0
+:PUBDATE:  <2022-11-09 ons 17:01>
+:END:
 ** Molly White talk
+:PROPERTIES:
+:ID:       b167220f-19ad-43d7-85e7-69428c224b78
+:END:
 Is Web3 bullshit?
 - https://www.youtube.com/watch?v=AGsllEF7w_g
 
 ** CPUs: Speculative execution
+:PROPERTIES:
+:ID:       8e5cb586-b8ea-4c7c-b46e-0e2b66e65608
+:END:
 "Speculative execution is an optimization technique in which a processor (CPU)
 performs a series of tasks before it is prompted to, in order to have the
 information ready if it is required at any point."
 - https://www.techtarget.com/whatis/definition/speculative-execution
 
 ** HMR for Remix dev experience with Vite
+:PROPERTIES:
+:ID:       d2ecf178-c247-403f-98e2-1a405353cf40
+:END:
   - https://github.com/sudomf/remix-vite

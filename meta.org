@@ -1,5 +1,6 @@
 #+TITLE: Meta
 
 * TODO
-** Fix index page
-** Fix anchor links that look sane
+- [X] Index page
+- [ ] Anchor links that look sane
+- [ ] RSS feed
