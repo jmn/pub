@@ -5,6 +5,10 @@
 :ID:       88138eb3-c55e-4317-84a2-75c45fe22863
 :PUBDATE:  <2022-11-09 ons 17:01>
 :END:
+
+** iA Presenter looks like good software
+- https://ia.net/presenter
+
 ** Meta fires 11 000 people
 :PROPERTIES:
 :ID:       bb57d5c2-d0eb-4c1c-b7e7-d9e68f0f7603
@@ -16,6 +20,7 @@
 :ID:       eb710e85-2219-41c4-af26-786142b7d7f0
 :PUBDATE:  <2022-11-09 ons 17:01>
 :END:
+
 ** Molly White talk
 :PROPERTIES:
 :ID:       b167220f-19ad-43d7-85e7-69428c224b78
