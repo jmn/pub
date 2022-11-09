@@ -14,10 +14,10 @@
   <link>https://pub.jmnorlund.net</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Wed, 09 Nov 2022 16:04:47 +0000</pubDate>
-  <lastBuildDate>Wed, 09 Nov 2022 16:04:47 +0000</lastBuildDate>
+  <pubDate>Wed, 09 Nov 2022 18:16:37 +0000</pubDate>
+  <lastBuildDate>Wed, 09 Nov 2022 18:16:37 +0000</lastBuildDate>
   <generator>Emacs 29.0 Org-mode 9.5.5</generator>
-  <webMaster>runner@fv-az213-184 (nil)</webMaster>
+  <webMaster>runner@fv-az74-675 (nil)</webMaster>
   <image>
     <url>http://lumiere.ens.fr/~guerry/images/faces/15.png</url>
     <title>jmn daily notes</title>
@@ -27,14 +27,23 @@
 
   <item>
     <title>2022-11-09 Wednesday</title>
-    <link>https://pub.jmnorlund.net/daily-notes.html#org15fa08a</link>
-    <author>runner@fv-az213-184 (nil)</author>
-    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#org15fa08a</guid>
+    <link>https://pub.jmnorlund.net/daily-notes.html#orgaaeba46</link>
+    <author>runner@fv-az74-675 (nil)</author>
+    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#orgaaeba46</guid>
     <pubDate>Wed, 09 Nov 2022 17:01:00 +0000</pubDate>
 
-    <description><![CDATA[<div id="outline-container-org24e0dbf" class="outline-3">
-    <h3 id="org24e0dbf">Meta fires 11 000 people</h3>
-    <div class="outline-text-3" id="text-org24e0dbf">
+    <description><![CDATA[<div id="outline-container-org3ba4253" class="outline-3">
+    <h3 id="org3ba4253">iA Presenter looks like good software</h3>
+    <div class="outline-text-3" id="text-org3ba4253">
+    <ul class="org-ul">
+    <li><a href="https://ia.net/presenter">https://ia.net/presenter</a></li>
+    </ul>
+    </div>
+    </div>
+
+    <div id="outline-container-org85f3713" class="outline-3">
+    <h3 id="org85f3713">Meta fires 11 000 people</h3>
+    <div class="outline-text-3" id="text-org85f3713">
     <ul class="org-ul">
     <li><a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/">https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/</a></li>
     </ul>
@@ -45,14 +54,14 @@
 
   <item>
     <title>2022-11-08 Tuesday</title>
-    <link>https://pub.jmnorlund.net/daily-notes.html#org31e765e</link>
-    <author>runner@fv-az213-184 (nil)</author>
-    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#org31e765e</guid>
+    <link>https://pub.jmnorlund.net/daily-notes.html#org926c6da</link>
+    <author>runner@fv-az74-675 (nil)</author>
+    <guid isPermaLink="false">https://pub.jmnorlund.net/daily-notes.html#org926c6da</guid>
     <pubDate>Wed, 09 Nov 2022 17:01:00 +0000</pubDate>
 
-    <description><![CDATA[<div id="outline-container-orgd1fa444" class="outline-3">
-    <h3 id="orgd1fa444">Molly White talk</h3>
-    <div class="outline-text-3" id="text-orgd1fa444">
+    <description><![CDATA[<div id="outline-container-orgedcb9f8" class="outline-3">
+    <h3 id="orgedcb9f8">Molly White talk</h3>
+    <div class="outline-text-3" id="text-orgedcb9f8">
     <p>
     Is Web3 bullshit?
     </p>
@@ -62,9 +71,9 @@
     </div>
     </div>
 
-    <div id="outline-container-org74f48fe" class="outline-3">
-    <h3 id="org74f48fe">CPUs: Speculative execution</h3>
-    <div class="outline-text-3" id="text-org74f48fe">
+    <div id="outline-container-org42dfd46" class="outline-3">
+    <h3 id="org42dfd46">CPUs: Speculative execution</h3>
+    <div class="outline-text-3" id="text-org42dfd46">
     <p>
     "Speculative execution is an optimization technique in which a processor (CPU)
     performs a series of tasks before it is prompted to, in order to have the
@@ -76,9 +85,9 @@
     </div>
     </div>
 
-    <div id="outline-container-org9b928c1" class="outline-3">
-    <h3 id="org9b928c1">HMR for Remix dev experience with Vite</h3>
-    <div class="outline-text-3" id="text-org9b928c1">
+    <div id="outline-container-orge3e764f" class="outline-3">
+    <h3 id="orge3e764f">HMR for Remix dev experience with Vite</h3>
+    <div class="outline-text-3" id="text-orge3e764f">
     <ul class="org-ul">
     <li><a href="https://github.com/sudomf/remix-vite">https://github.com/sudomf/remix-vite</a></li>
     </ul>
