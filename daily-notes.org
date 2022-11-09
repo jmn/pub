@@ -1,6 +1,10 @@
 #+TITLE: jmn daily notes 
 
-* 2022-11-08
+* 2022-11-09 Wednesday
+** Meta fires 11 000 people
+- https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/
+
+* 2022-11-08 Tuesday
 ** Molly White talk
 Is Web3 bullshit?
 - https://www.youtube.com/watch?v=AGsllEF7w_g
@@ -12,4 +16,4 @@ information ready if it is required at any point."
 - https://www.techtarget.com/whatis/definition/speculative-execution
 
 ** HMR for Remix dev experience with Vite
-- https://github.com/sudomf/remix-vite
+  - https://github.com/sudomf/remix-vite
